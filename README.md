@@ -1,6 +1,6 @@
 # About me:
 - 👋 Hi, I’m @Chonghow03
-- 👀 I’m interested in software development, data analytics, data structure algorithms, and cybersecurity
+- 👀 I’m interested in software development, data analytics, data structure algorithms, AI and ML
 - 🌱 I’m currently learning Computer Science at Monash University.
 - 💞️ I’m looking to collaborate on any projects that feasible for a Year 3 Computer Science student.
 - 📫 How to reach me Ig: _chonghow_, Email: ongch0417@gmail.com
